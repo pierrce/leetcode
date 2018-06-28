@@ -18,5 +18,4 @@ def find_median_sorted_arrays(nums1, nums2)
 
     # Return center int
     return nums1[(nums1.length/2).to_f.floor]
-
 end
