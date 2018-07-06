@@ -10,7 +10,7 @@ I will also post statistics below of my solutions.
 
 |Challenge      | Runtime          | Percentile  | Language |
 |:------------- |-------------:| -----:| ----:|
-|[Two Sum](https://leetcode.com/submissions/detail/162331129/)| 108ms | 42.13% | C++|
+|[Two Sum](https://leetcode.com/submissions/detail/162359266/)| 4ms | 100.00% | C++|
 |[Two Sum](https://leetcode.com/submissions/detail/160677956/)| 36ms | 99.31% | Ruby|
 |[Add Two Numbers](https://leetcode.com/submissions/detail/162341724/)| 28ms | 100.00% | C++|
 |[Add Two Numbers](https://leetcode.com/submissions/detail/160687853/)| 76ms | 96.98% | Ruby|
