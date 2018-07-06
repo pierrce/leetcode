@@ -10,6 +10,7 @@ I will also post statistics below of my solutions.
 
 |Challenge      | Runtime          | Percentile  | Language |
 |:------------- |-------------:| -----:| ----:|
+|[Two Sum](https://leetcode.com/submissions/detail/162331129/)| 108ms | 42.13% | C++|
 |[Two Sum](https://leetcode.com/submissions/detail/160677956/)| 36ms | 99.31% | Ruby|
 |[Add Two Numbers](https://leetcode.com/submissions/detail/160687853/)| 76ms | 96.98% | Ruby|
 |[Longest Substring Without Repeating Characters](https://leetcode.com/submissions/detail/160699300/)| 96ms | 71.88% | Ruby|
