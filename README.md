@@ -24,3 +24,4 @@ I will also post statistics below of my solutions.
 |[Judge Route Circle](https://leetcode.com/submissions/detail/162777395/)| 12ms | 97.96% | C++ | Easy |
 |[Peak Index in a Mountain Array](https://leetcode.com/submissions/detail/162778982/)| 8ms | 98.98% | C++ | Easy |
 |[Merge Two Binary Trees](https://leetcode.com/submissions/detail/162791994/)| 28ms | 99.45% | C++ | Easy |
+|[Max Increase to Keep City Skyline](https://leetcode.com/submissions/detail/162801465/)| 4ms | 100.00% | C++ | Medium |
