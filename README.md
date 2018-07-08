@@ -8,15 +8,15 @@ languages I've succeeded with.
 
 I will also post statistics below of my solutions.
 
-|Challenge      | Runtime          | Percentile  | Language |
-|:------------- |-------------:| -----:| ----:|
-|[Two Sum](https://leetcode.com/submissions/detail/162359266/)| 4ms | 100.00% | C++|
-|[Two Sum](https://leetcode.com/submissions/detail/160677956/)| 36ms | 99.31% | Ruby|
-|[Add Two Numbers](https://leetcode.com/submissions/detail/162341724/)| 28ms | 100.00% | C++|
-|[Add Two Numbers](https://leetcode.com/submissions/detail/160687853/)| 76ms | 96.98% | Ruby|
-|[Longest Substring Without Repeating Characters](https://leetcode.com/submissions/detail/162424853/)| 16ms | 99.88% | C++|
-|[Longest Substring Without Repeating Characters](https://leetcode.com/submissions/detail/160699300/)| 96ms | 71.88% | Ruby|
-|[Median of Two Sorted Arrays](https://leetcode.com/submissions/detail/160744291/)| 80ms | 91.58% | Ruby|
-|[Jewels and Stones](https://leetcode.com/submissions/detail/162669028/)| 4ms | 100.00% | C++
-|[Unique Morse Code Words](https://leetcode.com/submissions/detail/162761304/)| 4ms | 99.44% | C++
-|[Hamming Distance](https://leetcode.com/submissions/detail/162766669/)| 0ms | 100.00% | C++
+|Challenge      | Runtime          | Percentile  | Language | Difficulty |
+|:------------- |-------------:| -----:| ----:| ----: |
+|[Two Sum](https://leetcode.com/submissions/detail/162359266/)| 4ms | 100.00% | C++| Easy |
+|[Two Sum](https://leetcode.com/submissions/detail/160677956/)| 36ms | 99.31% | Ruby| Easy |
+|[Add Two Numbers](https://leetcode.com/submissions/detail/162341724/)| 28ms | 100.00% | C++| Medium |
+|[Add Two Numbers](https://leetcode.com/submissions/detail/160687853/)| 76ms | 96.98% | Ruby| Medium |
+|[Longest Substring Without Repeating Characters](https://leetcode.com/submissions/detail/162424853/)| 16ms | 99.88% | C++| Medium |
+|[Longest Substring Without Repeating Characters](https://leetcode.com/submissions/detail/160699300/)| 96ms | 71.88% | Ruby| Medium |
+|[Median of Two Sorted Arrays](https://leetcode.com/submissions/detail/160744291/)| 80ms | 91.58% | Ruby| Hard |
+|[Jewels and Stones](https://leetcode.com/submissions/detail/162669028/)| 4ms | 100.00% | C++| Easy |
+|[Unique Morse Code Words](https://leetcode.com/submissions/detail/162761304/)| 4ms | 99.44% | C++ | Easy |
+|[Hamming Distance](https://leetcode.com/submissions/detail/162766669/)| 0ms | 100.00% | C++ | Easy |
