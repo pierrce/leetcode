@@ -19,3 +19,4 @@ I will also post statistics below of my solutions.
 |[Median of Two Sorted Arrays](https://leetcode.com/submissions/detail/160744291/)| 80ms | 91.58% | Ruby|
 |[Jewels and Stones](https://leetcode.com/submissions/detail/162669028/)| 4ms | 100.00% | C++
 |[Unique Morse Code Words](https://leetcode.com/submissions/detail/162761304/)| 4ms | 99.44% | C++
+|[Hamming Distance](https://leetcode.com/submissions/detail/162766669/)| 0ms | 100.00% | C++
