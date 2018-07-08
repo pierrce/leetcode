@@ -17,3 +17,4 @@ I will also post statistics below of my solutions.
 |[Longest Substring Without Repeating Characters](https://leetcode.com/submissions/detail/162424853/)| 16ms | 99.88% | C++|
 |[Longest Substring Without Repeating Characters](https://leetcode.com/submissions/detail/160699300/)| 96ms | 71.88% | Ruby|
 |[Median of Two Sorted Arrays](https://leetcode.com/submissions/detail/160744291/)| 80ms | 91.58% | Ruby|
+|[Jewels and Stones](https://leetcode.com/submissions/detail/162669028/)| 4ms | 100.00% | C++
