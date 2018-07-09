@@ -16,4 +16,5 @@ I will also post statistics below of my solutions.
 |[Add Two Numbers](https://leetcode.com/submissions/detail/160687853/)| 76ms | 96.98% | Ruby|
 |[Longest Substring Without Repeating Characters](https://leetcode.com/submissions/detail/162424853/)| 16ms | 99.88% | C++|
 |[Longest Substring Without Repeating Characters](https://leetcode.com/submissions/detail/160699300/)| 96ms | 71.88% | Ruby|
+|[Median of Two Sorted Arrays](https://leetcode.com/submissions/detail/162585181/)| 36ms | 99.66% | C++|
 |[Median of Two Sorted Arrays](https://leetcode.com/submissions/detail/160744291/)| 80ms | 91.58% | Ruby|
